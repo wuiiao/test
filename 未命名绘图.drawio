@@ -40,7 +40,7 @@
         <mxCell id="f2EWpejTJ3KkAe_YtKIl-22" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;REDIS&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;（缓存数据库）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#FF8000,#000000);fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="660" y="555" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f2EWpejTJ3KkAe_YtKIl-23" value="城市二次供水电子档案管理系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=0;strokeColor=light-dark(#FF3333,#FFFFFF);" vertex="1" parent="1">
+        <mxCell id="f2EWpejTJ3KkAe_YtKIl-23" value="城市二次供水电子档案管理系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeColor=light-dark(#FF3333,#FFFFFF);" vertex="1" parent="1">
           <mxGeometry x="360" y="800" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2EWpejTJ3KkAe_YtKIl-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="f2EWpejTJ3KkAe_YtKIl-25">
@@ -52,10 +52,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f2EWpejTJ3KkAe_YtKIl-25" value="微信小程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f2EWpejTJ3KkAe_YtKIl-25" value="微信小程序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="160" y="920" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f2EWpejTJ3KkAe_YtKIl-26" value="PC管理端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f2EWpejTJ3KkAe_YtKIl-26" value="PC管理端" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="640" y="920" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2EWpejTJ3KkAe_YtKIl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.526;entryY=1.07;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="f2EWpejTJ3KkAe_YtKIl-26">
