@@ -41,7 +41,7 @@
           <mxGeometry x="660" y="555" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2EWpejTJ3KkAe_YtKIl-23" value="城市二次供水电子档案管理系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeColor=light-dark(#FF3333,#FFFFFF);" vertex="1" parent="1">
-          <mxGeometry x="540" y="810" width="430" height="60" as="geometry" />
+          <mxGeometry x="360" y="800" width="430" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
