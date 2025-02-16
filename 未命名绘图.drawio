@@ -7,13 +7,13 @@
         <mxCell id="f2EWpejTJ3KkAe_YtKIl-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="120" width="1030" height="670" as="geometry" />
         </mxCell>
-        <mxCell id="f2EWpejTJ3KkAe_YtKIl-10" value="&lt;br&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;用户交互层&lt;/span&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;direction=west;fillColor=light-dark(#0000FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+        <mxCell id="f2EWpejTJ3KkAe_YtKIl-10" value="&lt;br&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span&gt;用户交互层&lt;/span&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;direction=west;fillColor=light-dark(#0000FF,var(--ge-dark-color, #121212));fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="220" y="230" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f2EWpejTJ3KkAe_YtKIl-12" value="PC管理端&lt;div&gt;（html + js +vue）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f2EWpejTJ3KkAe_YtKIl-12" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;PC管理端&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;（html + js +vue）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#3333FF,#000000);fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="370" y="230" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f2EWpejTJ3KkAe_YtKIl-13" value="微信小程序&lt;div&gt;（uniapp）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f2EWpejTJ3KkAe_YtKIl-13" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;微信小程序&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;（uniapp）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#3333FF,#000000);fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="660" y="230" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
