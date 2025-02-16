@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="第 1 页" id="cjYHyFAmv6pbent0GlUM">
-    <mxGraphModel dx="1562" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1318" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="f2EWpejTJ3KkAe_YtKIl-22" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;REDIS&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;（缓存数据库）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#FF8000,#000000);fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="660" y="555" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f2EWpejTJ3KkAe_YtKIl-23" value="城市二次供水电子档案管理系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeColor=light-dark(#FF3333,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="540" y="810" width="430" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
