@@ -58,7 +58,7 @@
         <mxCell id="f2EWpejTJ3KkAe_YtKIl-26" value="PC管理端" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=light-dark(#0000CC,#FFFFFF);" vertex="1" parent="1">
           <mxGeometry x="640" y="920" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f2EWpejTJ3KkAe_YtKIl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.526;entryY=1.07;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="f2EWpejTJ3KkAe_YtKIl-26">
+        <mxCell id="f2EWpejTJ3KkAe_YtKIl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.526;entryY=1.07;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=light-dark(#0000CC,#FFFFFF);" edge="1" parent="1" source="f2EWpejTJ3KkAe_YtKIl-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="893.82" y="915.8" as="sourcePoint" />
             <mxPoint x="599.9999999999999" y="860" as="targetPoint" />
