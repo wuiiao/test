@@ -16,6 +16,12 @@
         <mxCell id="f2EWpejTJ3KkAe_YtKIl-13" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;微信小程序&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;（uniapp）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#3333FF,#000000);fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="660" y="230" width="270" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="f2EWpejTJ3KkAe_YtKIl-14" value="&lt;br&gt;&lt;font color=&quot;#ffffff&quot;&gt;通讯层&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;direction=west;fillColor=light-dark(#0000FF,var(--ge-dark-color, #121212));fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="220" y="310" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f2EWpejTJ3KkAe_YtKIl-15" value="&lt;font color=&quot;#ffffff&quot;&gt;https / JSON&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#3333FF,#000000);fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="370" y="310" width="560" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
