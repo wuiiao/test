@@ -34,10 +34,10 @@
         <mxCell id="f2EWpejTJ3KkAe_YtKIl-19" value="&lt;br&gt;&lt;font color=&quot;#ffffff&quot;&gt;数据存储层&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;direction=west;fillColor=light-dark(#999999,var(--ge-dark-color, #121212));fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="220" y="555" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f2EWpejTJ3KkAe_YtKIl-21" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;MYSQL&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;（主业务库）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#3333FF,#000000);fontSize=14;" vertex="1" parent="1">
+        <mxCell id="f2EWpejTJ3KkAe_YtKIl-21" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;PC管理端&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;（html + js +vue）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#3333FF,#000000);fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="370" y="555" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f2EWpejTJ3KkAe_YtKIl-22" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;PC管理端&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;（html + js +vue）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#3333FF,#000000);fontSize=14;" vertex="1" parent="1">
+        <mxCell id="f2EWpejTJ3KkAe_YtKIl-22" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;REDIS&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;（缓存数据库）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#3333FF,#000000);fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="660" y="555" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
