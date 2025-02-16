@@ -43,6 +43,17 @@
         <mxCell id="f2EWpejTJ3KkAe_YtKIl-23" value="城市二次供水电子档案管理系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;strokeColor=light-dark(#FF3333,#FFFFFF);" vertex="1" parent="1">
           <mxGeometry x="360" y="800" width="430" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="f2EWpejTJ3KkAe_YtKIl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.524;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="f2EWpejTJ3KkAe_YtKIl-25" target="f2EWpejTJ3KkAe_YtKIl-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f2EWpejTJ3KkAe_YtKIl-25" value="微信小程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="920" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f2EWpejTJ3KkAe_YtKIl-26" value="PC管理端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="920" width="320" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
