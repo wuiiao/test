@@ -55,16 +55,6 @@
         <mxCell id="f2EWpejTJ3KkAe_YtKIl-26" value="PC管理端" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=light-dark(#0000CC,#FFFFFF);" vertex="1" parent="1">
           <mxGeometry x="640" y="920" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f2EWpejTJ3KkAe_YtKIl-32" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="810" as="sourcePoint" />
-            <mxPoint x="560" y="760" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="560" y="810" />
-              <mxPoint x="510" y="760" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
